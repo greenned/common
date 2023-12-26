@@ -14,3 +14,7 @@
 
 - [Grind 75](https://www.techinterviewhandbook.org/grind75)
 - [Blind 75](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions)
+
+# ML System Design Pattern
+
+- [ml-system-design-pattern](https://mercari.github.io/ml-system-design-pattern/)
